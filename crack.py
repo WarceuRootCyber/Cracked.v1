@@ -70,29 +70,29 @@ def welcome():
               .+hNNMMMMMNNdyo/:-..-:/ss/   .:oydmds+:`
               `sNMMMMMMMMMMMMMMMMNNNNMN+`  /hNMMMs-`
            `dMMmddmNMMMMMMMMMMmhMMMh.  `hMMMMN:
-           sNo-`````.:/oooo/:.+NMMs`  `dMMMMMo
-          o.               `yMMMh`   oMMMMMM-
-                          .dMMMM-    mMMMMMM:
-                         `mMMMMm    .MMMMMMM+
-                         yMMMMMh    `MMMMMMMy
-                        .MMMMMMd    `NMMMMMMm
-                        /MMMMMMN`    NMMMMMMm
-                        /MMMMMMM-    mMMMMMMm
-                        -MMMMMMM/    hMMMMMMm
-                 .+shhhhhMMMMMMM+    yMMMMMMd
-                +dmNNMMMMMMMMMMMo    oMMMMMMy
-                ....-:smMMMMMMMMs    oMMMMMM+
-                      `sMMMMMMMs     oMMMMMN.
+           sNo-`````.:/oooo/:.+NMMs  `dMMMMMo
+          o.               `yMMMh`  oMMMMMM-
+                          .dMMMM-   mMMMMMM:
+                         `mMMMMm   .MMMMMMM+
+                         yMMMMMh   `MMMMMMMy
+                        .MMMMMMd   `NMMMMMMm
+                        /MMMMMMN`   NMMMMMMm
+                        /MMMMMMM-   mMMMMMMm
+                        -MMMMMMM/   hMMMMMMm
+                 .+shhhhhMMMMMMM+   yMMMMMMd
+                +dmNNMMMMMMMMMMMo   oMMMMMMy
+                ....-:smMMMMMMMMs   oMMMMMM+
+                      `sMMMMMMMs    oMMMMMN.
                       dMMMMMMo     yMMMMMs
-               `-+oo+/hMMMMMM/   `mMMMMm`
-               ./shmMMMMMMMMN`  /MMMMm-
-                  .+mMMMMMMy   `mMMMd.
-                  .NMMMMN.  `hMMNo`
-                  yMMMN:  .hMNy-
-                  yMMN: `/mNs-    ```````
-                 :NMm-`:hdo--/+syhddddddhys+-`
-                 :NMd-:hMNdmNMMMMMMMMMMMMMMMMMNh+.`  .+.
-                 `sMMhodMMMMMMMMMMMMMMMMMMMMMMMMMMMMhshNd/
+              `-+oo+/hMMMMMM/     `mMMMMm`
+               ./shmMMMMMMMMN`   /MMMMm-
+                  .+mMMMMMMy    `mMMMd.
+                   .NMMMMN.    `hMMNo`
+                   yMMMN:    .hMNy-
+                   yMMN:    `/mNs-    ```````
+                  :NMm- ` :hdo--/+syhddddddhys+-`
+                  :NMd-:hMNdmNMMMMMMMMMMMMMMMMMNh+.`  .+.
+                  `sMMhodMMMMMMMMMMMMMMMMMMMMMMMMMMMMhshNd/
                 `/mMMMNMNNmmhhyyyyyhdmNNMMMMMMMMMMMMMMMd/
              `+mMNmho+:.`            `.:+ymNMMMMMMMMh:
             ody+:`                         ./hNMMNh-
